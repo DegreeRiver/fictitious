@@ -6,15 +6,7 @@
 	<groupId>com.inherit</groupId>
 	<artifactId>fictitious</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-    <modules>
-        <module>fictitious-dao</module>
-		<module>fictitious-domain</module>
-		<module>fictitious-export</module>
-		<module>fictitious-common</module>
-		<module>fictitious-rpc</module>
-		<module>fictitious-service</module>
-	</modules>
-    <packaging>pom</packaging>
+	<packaging>jar</packaging>
 
 	<name>fictitious</name>
 	<description>Demo project for Spring Boot</description>
