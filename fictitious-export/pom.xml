@@ -16,6 +16,10 @@
             <artifactId>jaxrs-api</artifactId>
             <version>3.0.4.Final</version>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
     </dependencies>
 
 

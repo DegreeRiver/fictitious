@@ -24,4 +24,5 @@ public interface UserResource {
     @POST
     @Path("loginInfo")
     void loginInfo(String name);
+
 }
